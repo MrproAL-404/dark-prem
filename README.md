@@ -18,9 +18,10 @@ $python2 main.py
 
 Script ini memiliki id dan pw untuk login
 Buat lu yang blm tau id dan pwnya bisa klik link 
-https://semawur.com/Sw9F3Qy9AY
+https://bit.ly/3c7S1Kh
 
 Dan buat lu yang udh tau id pwnya di harap jangan
 Dishare ke yang lain biar mereka yg cari tau sendiri
 
 Terimakasih atas pengertiannya:)
+ 
