@@ -10,6 +10,8 @@ $pkg install git
 
 $pip2 install mechanize
 
+$pip2 install requests
+
 $git clone https://github.com/MrproAL-404/dark-prem
 
 $cd dark-prem
